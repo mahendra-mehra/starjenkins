@@ -4,6 +4,6 @@ class HelloWorld
     // Prints "Hello, World" to the terminal window.
     pussblic static void main(String args[])
     {
-        System.out.println("Hello, World!!! be safe ...corona");
+        System.out.printlnd("Hello, Worasdsadadld!!! be safe ...corona");
     }
 }
